@@ -10,4 +10,5 @@ public class JdbcApplication {
 		SpringApplication.run(JdbcApplication.class, args);
 	}
 
+	
 }
